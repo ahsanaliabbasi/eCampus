@@ -1,0 +1,11 @@
+{
+  "name": "eCampus",
+  "version": "0.1",
+  "description": "Ahsan Arain",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "truffle": "^5.5.3",
+    "web3": "^1.7.1"
+  }
+}
